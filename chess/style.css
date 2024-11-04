@@ -1,0 +1,60 @@
+html {
+  background-image: url("images/boardBackground.jpg");
+}
+
+body {
+  width: 600px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  padding: 20px, 150px;
+  background: rgba(255, 255, 255, 0.9);
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  background: rgb(60, 60, 60);
+  color: white;
+  border-radius: 20px;
+  font-family: "Kavivanar", cursive;
+  letter-spacing: 4px;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+
+/* classes can be used in multiple tags */
+.center,
+h2 {
+  text-align: center;
+}
+/* ids can only be used 1 time */
+#orange {
+  color: orange;
+}
+
+#blue {
+  color: blue;
+}
+#red {
+  color: red;
+}
+
+h2 {
+  font-variant: small-caps;
+  font-family: "Kavivanar", cursive;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+}
+
+.caption {
+  text-align: center;
+  font-size: 12px;
+  font-style: italic;
+}

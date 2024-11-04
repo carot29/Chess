@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../Basic Html/images"
+	},
+	{
+		"path": "../Basic Html"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Basic Html"
+  }
+}
